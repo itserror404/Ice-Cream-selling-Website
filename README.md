@@ -1,5 +1,5 @@
 # Icrecream-Selling-Website
-I have created this website for Intro to CS Class. It is a Responsive website created using HTML,CSS,JavaScript and Python. It has a form which takes data such as the type of icecream you want and returns the Bill with calculated Total price of the Icecreams you ordered.
+I have created this website for Intro to CS Class. It is a website created using HTML,CSS,JavaScript and Python. It has a form which takes data such as the type of icecream you want and returns the Bill with calculated Total price of the Icecreams you ordered.
 
 Find the pictures below:
 
